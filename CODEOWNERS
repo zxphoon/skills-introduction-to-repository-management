@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zxphoon
+/src/backend/database.py      @zxphoon
+/src/backend/routers/auth.py  @zxphoon
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zxphoon
